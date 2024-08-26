@@ -64,7 +64,8 @@ T
 
 ## OUTPUT:
 
-![ss1](./ss1.png)
+![RL_11](https://github.com/user-attachments/assets/f4a50bf7-2c18-4150-a92b-4a63e6c04045)
+
 
 ## RESULT:
 Thus the given Markov Decision Process(MDP) problem is represented in the following ways.
