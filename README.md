@@ -36,7 +36,8 @@ R= {
 
 ```
 ### Graphical Representation
-![Screenshot 2023-09-12 082856](https://github.com/Meenakshi0907/mdp-representation/assets/94177474/d7d222b6-cdcf-4020-bf33-79647f413361)
+
+![RL_1](https://github.com/user-attachments/assets/7c52561d-a6ec-42a4-bd41-452cc404ec47)
 
 
 ## PYTHON REPRESENTATION:
@@ -61,7 +62,7 @@ T
 
 ## OUTPUT:
 
-![RL_1](https://github.com/user-attachments/assets/7c52561d-a6ec-42a4-bd41-452cc404ec47)
+
 
 ## RESULT:
 Thus the given Markov Decision Process(MDP) problem is represented in the following ways.
