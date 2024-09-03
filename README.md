@@ -44,27 +44,29 @@ R= {
 
 ## PYTHON REPRESENTATION:
 ```py
+
 T = {
-    0 : {
-        0 : [(1.0, 1, 1.0, True)],
-        1 : [(1.0, 0, 0.0, False)]
+    0: {
+        0: [(0.8, 1, 1.0, False), (0.2, 0, 0.0, False)],
+        1: [(0.9, 0, 0.0, False), (0.1, 1, 0.5, False)]
     },
-    1 : {
-        0 : [(1.0, 2, 1.0, True)],
-        1 : [(1.0, 0, 0.0, False)]
+    1: {
+        0: [(0.7, 2, 1.0, False), (0.3, 0, 0.0, False)],
+        1: [(0.85, 0, 0.0, False), (0.15, 2, 0.5, False)]
     },
-    2 : {
-        0 : [(1.0, 2, 1.0, True)],
-        1 : [(1.0, 1, 0.0, False)]
+    2: {
+        0: [(0.9, 2, 1.0, True), (0.1, 1, 0.0, False)],
+        1: [(0.6, 1, 0.0, False), (0.4, 0, 0.0, False)]
     }
 }
-
 T
+
 ```
 
 ## OUTPUT:
 
-![RL_11](https://github.com/user-attachments/assets/f4a50bf7-2c18-4150-a92b-4a63e6c04045)
+![123](https://github.com/user-attachments/assets/039f4c28-dfee-4f1b-838a-e7beb9c471f3)
+
 
 
 ## RESULT:
